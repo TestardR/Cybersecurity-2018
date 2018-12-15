@@ -1,7 +1,7 @@
 # My thoughts on cybersecurity for 2019... 
 
 
-# INDUSTRY OVERVIEW
+## INDUSTRY OVERVIEW
 
 According to Andrew van der Stock (Pluralsight, April 2018), two major changes are affecting the web development industry. First of all, developers are pushing a lot of server logic towards the client's, making more prone to attacks, as logic can more easily be leaked. Second of all, developers are moving to cloud services, which implies moving the state from the application to the cloud. Security has always been about protecting the state. It is now been moved around, and it is a huge change for security.
 
@@ -13,7 +13,7 @@ Helme, S. (August 2018). Alexa Top 1 Million Analysis - August 2018, url: https:
 
 
 
-# TOP 3 CRITCAL WEB APPLICATION SECURITY RISKS
+## TOP 3 CRITCAL WEB APPLICATION SECURITY RISKS
 
 According to OWASP (2017), the three major security risks face by developers are 1. Injection, 2. Broken Authentication, 3. Sensitive Data Exposure.
 1. Even though the likelihood of SQL injection has considerably dropped, the rise of NoSQL databases (such as MongoDB) has given momentum to NoSQL injections. Developers have to prepare for this. SQL or NoSQL excluded, injections can have a huge impact and cannot be discarded.
@@ -25,11 +25,11 @@ OWASP (2017). OWASP Top 10 - 2017, The Ten Most Critical Web Application Securit
 haveibeenpwned.com (december 2018). Pwned Passwords. url: https://haveibeenpwned.com/Passwords
 
 
-# NEXT STEPS ?
+## NEXT STEPS ?
 
 1. CI/CD has to be enhanced and monitored. Continuous integration, continuous deployment as well as unit testing are at the cornerstone of cybersecurity for developers. Technologies such as Mocha and Jest for testing or Appveyor and Travis for continuous integration are widespread. Well programmed and implemented, they will allow developers to protect users from evolving attacks.
 2. Business developers should produce metrics to point out issues regarding security threats. They should be quick to set security standards and quality training for their developers.
 3. Developers should move to or update their new frameworks. Technologies such as Angular and React are built upon the latest technology standards. They integrate built-in protection for modern attacks, such as injections. That is why injections are less common, not because developers actually learned how to deal with them...
 
                                                                                                                         
-                                                                                                                        Romain Testard
+Romain Testard
