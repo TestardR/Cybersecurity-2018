@@ -31,5 +31,8 @@ haveibeenpwned.com (december 2018). Pwned Passwords. url: https://haveibeenpwned
 2. Business developers should produce metrics to point out issues regarding security threats. They should be quick to set security standards and quality training for their developers.
 3. Developers should move to or update their new frameworks. Technologies such as Angular and React are built upon the latest technology standards. They integrate built-in protection for modern attacks, such as injections. That is why injections are less common, not because developers actually learned how to deal with them...
 
-                                                                                                                        
+     
+     
+     
+    
 Romain Testard
