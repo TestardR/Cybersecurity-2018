@@ -3,7 +3,7 @@
 
 ## INDUSTRY OVERVIEW
 
-According to Andrew van der Stock (Pluralsight, April 2018), two major changes are affecting the web development industry. First of all, developers are pushing a lot of server logic towards the client, making it more prone to attacks, as logic can more easily be leaked. Second of all, developers are moving to cloud services, which implies moving the state from the application to the cloud. Security has always been about protecting the state. It is now been moved around, and it is a huge change for security.
+According to Andrew van der Stock (Pluralsight, April 2018), two major changes are affecting the web development industry. First of all, developers are pushing a lot of server logic towards the client, making it more prone to attacks, as logic can more easily be leaked. Second of all, developers are moving to cloud services, which implies moving the state from the application to the cloud. Security has always been about protecting the state. It is now been moved around, it is a huge change for security.
 
 As far as browser security goes, the internet is safer but we are far away from a secure world. According to Alexa Top 1 Million Analysis (Scott Helme, August 2018), HTTPS has reached an increasing 51% of the top 1 Million websites, which is great news. HTTP Strict Transport Security (HSTS), forcing browsers to only interact with HTTPS connections, reaches an increasing 12.75%. Only 3.5% uses Content Security Policy (CSP). It increases steadily. Finally, Public Key Pinning is decreasing to a tiny 0.86% of the top 1 Million. It has been deprecated by Google as it has been misused causing "website suicide".
 
